@@ -21,6 +21,10 @@
 <br/>
 <br/>
 
+### Мои контакты:
+- E-mail: artemkaasatryan@yandex.ru
+- Telegram: @artyomas
+
 ### Моя статистика:
 ![Artyom GitHub stats](https://github-readme-stats.vercel.app/api?username=ArtyomAsatryan&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArtyomAsatryan&layout=compact)](https://github.com/eNRja/github-readme-stats)
